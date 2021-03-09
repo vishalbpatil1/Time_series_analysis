@@ -7,3 +7,6 @@ LSTM , RNN for stochastically  order data (time series)
 
 #### sample plot of multisteps prediction
 ![img2](https://github.com/vishalbpatil1/Time_series_analysis/blob/main/predictionsteps%204.png)
+
+#### sample of prediction table
+![img3](https://github.com/vishalbpatil1/Time_series_analysis/blob/main/prediction%20table.png)
